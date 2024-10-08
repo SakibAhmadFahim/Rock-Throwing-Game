@@ -1,1 +1,1 @@
-# Rock-Throwing-Game
+# Stone-Throwing-Game
